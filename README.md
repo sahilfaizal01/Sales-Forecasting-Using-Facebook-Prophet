@@ -1,7 +1,8 @@
 # Sales-Forecasting-Using-Facebook-Prophet
 This is a data science project to forecast sales in the future based on historical data from 1115 stores in a retail chain.
-## Dataset
-https://www.kaggle.com/c/rossmann-store-sales/data
+## Dataset (Rossmann Store Data)
+Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.<br>
+Link:- https://www.kaggle.com/c/rossmann-store-sales/data
 ## Introduction
 * For companies to become competitive and increase their growth, they need to leverage AI to develop predictive models to forecast sales in the future.
 * Predictive models are used to forecast future sales based on historical data while taking into account seasonality effects, demand, holidays, promotions, and competition.
